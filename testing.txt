@@ -1,8 +1,4 @@
 test 3
 this is the update of the new branch
 this is the second update of the master
-<<<<<<< HEAD
-this is the fouth update of the master branch
-=======
 this is the github update of the master
->>>>>>> 0d05069e901144c51cf7a6c0a899acc884c38398
